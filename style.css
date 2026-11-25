@@ -68,7 +68,7 @@ body {
 }
 
 .hero {
-  background-image: url(/Main/images/herobanner.jpeg);
+  background-image: url(herobanner.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
